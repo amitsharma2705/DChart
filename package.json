@@ -1,0 +1,19 @@
+{
+  "name": "dchart",
+  "version": "0.0.1",
+  "description": "Charting library based on D3.Compatible with React and webpack",
+  "main": "dchart.js",
+  "dependencies": {
+    "webpack": "^1.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "D3",
+    "Webpack"
+  ],
+  "author": "Amit Sharma",
+  "license": "ISC"
+}
